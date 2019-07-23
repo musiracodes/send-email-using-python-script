@@ -1,2 +1,2 @@
 # send-email-using-python-script
-https://musira.co.ke/blog/send-email-notification-in-python.html
+https://blog.musira.co.ke/blog/send-email-notification-in-python.html
